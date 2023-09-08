@@ -3,4 +3,4 @@
 </h1>
 
 ## Projeto
-- Estudando react native criando uma de tela de e-commerco de planta.
+- Estudando react native criando uma de tela de e-commerce de planta.
